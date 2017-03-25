@@ -1,0 +1,28 @@
+{
+  "name": "pedidos-node",
+  "version": "1.0.0",
+  "description": "Pedidos en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "dependencies": {
+    "express":"latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfloresuth/pedidos-node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "pedidos",
+    "web"
+  ],
+  "author": "Gustavo Adolfo Flores González",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gfloresuth/pedidos-node/issues"
+  },
+  "homepage": "https://github.com/gfloresuth/pedidos-node#readme"
+}
